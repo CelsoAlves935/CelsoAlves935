@@ -1,8 +1,6 @@
-# 💻 Celso Alves
 
-**`Desenvolvedor Backend`**
 
-# Olá, eu sou o Celso Alves! 👋
+# 💻 Olá, eu sou o Celso Alves! 👋
 
 Sou um entusiasta de tecnologia em transição de carreira para o desenvolvimento de software. Atualmente, curso **Análise e Desenvolvimento de Sistemas no Senac** e possuo sólida base técnica vinda do curso **Técnico em Informática**.
 
