@@ -2,8 +2,25 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Celso Alves de Almeida Oliveira, tenho 25 anos e sou de São Paulo Capital. Concluí o curso técnico em informatica do Senac. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitario Senac. Sou um entusiasta da tecnologia e sempre estou a procura de me desenvolver na area.
+# Olá, eu sou o Celso Alves! 👋
 
+Sou um entusiasta de tecnologia em transição de carreira para o desenvolvimento de software. Atualmente, curso **Análise e Desenvolvimento de Sistemas no Senac** e possuo sólida base técnica vinda do curso **Técnico em Informática**.
+
+### 🛠️ O que estou estudando e praticando:
+* **Backend:** Java (Focado em POO) e Spring Boot.
+* **Frontend/Mobile:** JavaScript, TypeScript e React Native.
+* **Banco de Dados:** MySQL e lógica de persistência SQL.
+* **Infra:** Fundamentos de AWS, Redes.
+
+### 📈 Trajetória Profissional
+Minha experiência anterior em **Suporte Técnico e Help Desk** na Digimed me proporcionou uma visão analítica para resolução de problemas complexos e documentação técnica. Hoje, aplico essa bagagem para construir códigos eficientes e bem estruturados.
+
+### 📫 Vamos nos conectar?
+* **Linkedin:** https://www.linkedin.com/in/celso-alves-451567208/
+* **E-mail:** celsoaao7@gmail.com 
+
+---
+"Focado em otimizar processos e garantir a continuidade de serviços tecnológicos através do código."* [cite: 7]
 ### 🤖 Linguagens e Tecnologias
 
 <img 
