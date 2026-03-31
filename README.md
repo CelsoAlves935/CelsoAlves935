@@ -18,7 +18,7 @@ Minha experiência anterior em **Suporte Técnico e Help Desk** na Digimed me pr
 * **E-mail:** celsoaao7@gmail.com 
 
 ---
-"Focado em otimizar processos e garantir a continuidade de serviços tecnológicos através do código."* [cite: 7]
+"Focado em otimizar processos e garantir a continuidade de serviços tecnológicos através do código."
 ### 🤖 Linguagens e Tecnologias
 
 <img 
